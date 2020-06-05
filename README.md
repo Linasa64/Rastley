@@ -1,6 +1,7 @@
 # Bienvenue à toi, nouveau joueur !
 
 Ce jeu a été réalisé dans le cadre du projet d'informatique de fin de 1ère année par des étudiantes de l'INSA Lyon.
+Vous trouverez le diagramme UML et le cahier des charges dans les fichiers.
 
 ## Le but du jeu
 
